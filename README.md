@@ -1,2 +1,2 @@
 # felix
-Little chatbot for me and my friends.
+Little telegram BotFather chatbot.
